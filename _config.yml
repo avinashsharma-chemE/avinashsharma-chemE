@@ -60,6 +60,7 @@ plugins:
 author:
   name   : "Avinash Sharma"
   avatar : "/assets/images/Avi.jpg"
+  url   : "/about/"
   bio    : "Process Engineering, Energy Research, Sustainability."
   links:
     - label: "LinkedIn"
