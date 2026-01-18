@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Avinash.
+I’m a Chemical Engineering graduate from the University of Texas at Austin currently seeking full-time, entry-level chemical engineering roles. I have hands-on experience in process design, optimization, and experimental research within the energy sector. During my undergraduate research, I worked on a project involving nanoparticles to study and improve scale inhibitor adsorption in oil pipelines. Through this work, I contributed to data-driven performance improvements and am currently involved in efforts toward a research publication.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’m passionate about applying engineering fundamentals, simulation tools, and analytical methods to solve real-world energy and sustainability challenges. I enjoy working with tools like Aspen Plus, MATLAB, Python, and Excel to model systems, analyze data, and design practical engineering solutions.
+
+Beyond the technical side, I value teamwork, leadership, and continuous learning, and I’m excited to grow as an engineer while contributing meaningfully to impactful projects.
+Feel free to explore my projects below to learn more about my work, and don’t hesitate to reach out if you’d like to connect or collaborate.
