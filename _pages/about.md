@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Profile"
+permalink: /about/
+title: "About"
 ---
 
 Hi, I’m Avinash.
