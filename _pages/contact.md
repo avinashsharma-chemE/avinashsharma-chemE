@@ -1,10 +1,9 @@
 ---
-title: Contact
+title: "Contact Me"
 layout: single
 permalink: /contact/
 ---
 
-# Contact Me
 
 I’d love to connect! Whether you have a question, opportunity, or just want to say hello, feel free to reach out.
 
