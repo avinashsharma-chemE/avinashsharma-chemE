@@ -2,7 +2,6 @@
 permalink: /projects/
 title: "Projects"
 ---
-
 ## Table of Contents
 - [Nanoparticle Scale Inhibitor Research](#nanoparticle-scale-inhibitor-research)
 - [Blue Hydrogen Plant Design](#blue-hydrogen-plant-design)
